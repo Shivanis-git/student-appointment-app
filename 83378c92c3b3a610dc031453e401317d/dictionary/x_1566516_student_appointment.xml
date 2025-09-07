@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8c590456c3b3a610dc031453e40131c7" label="Appointment" max_length="40" name="x_1566516_student_appointment" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reason" max_length="40" name="reason" reference_qual="null" reference_qual_condition="null" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Appointment Number" max_length="40" name="appointment_number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="notes" type="journal"/>
+        <element attributes="encode_utf8=false" label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" display="true" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" sequence="3" value="Cancelled"/>
+                <element inactive_on_update="false" label="Confirmed" sequence="2" value="Confirmed"/>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="Pending"/>
+                <element inactive_on_update="false" label="Rejected" sequence="4" value="Rejected"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Appointment Date/Time" mandatory="true" max_length="40" name="appointment_date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Department" max_length="40" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Computer Science" value="cs"/>
+                <element inactive_on_update="false" label="Mechanical Engineering" value="me"/>
+                <element inactive_on_update="false" label="Civil" value="ce"/>
+                <element inactive_on_update="false" label="Information Technology" value="it"/>
+                <element inactive_on_update="false" label="Electrical Engineering" value="ee"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Student ID" max_length="40" name="student_id" type="string"/>
+        <element attributes="encode_utf8=false" label="Student" mandatory="true" max_length="32" name="student" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="student"/>
+        </index>
+    </element>
+</database>

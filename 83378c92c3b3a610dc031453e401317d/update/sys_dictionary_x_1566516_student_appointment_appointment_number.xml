@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-07 07:12:28</sys_created_on>
-        <sys_id>44594456c3b3a610dc031453e4013121</sys_id>
         <sys_name>Appointment Number</sys_name>
         <sys_package display_value="Student Appointment App" source="x_1566516_student">83378c92c3b3a610dc031453e401317d</sys_package>
         <sys_policy/>

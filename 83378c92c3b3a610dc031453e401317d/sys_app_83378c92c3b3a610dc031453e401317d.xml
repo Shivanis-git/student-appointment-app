@@ -22,7 +22,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_1566516_student</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>Build a small app to let students book appointments with staff, auto-send approval/confirmation notifications, and show a simple list view for staff.</short_description>
         <source>x_1566516_student</source>
         <store_correlation_id/>
         <store_url/>
@@ -32,7 +32,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-09-07 07:03:23</sys_created_on>
         <sys_id>83378c92c3b3a610dc031453e401317d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-09-07 07:03:23</sys_updated_on>
         <template/>
