@@ -74,4 +74,11 @@ The **Student Appointment App** is a custom ServiceNow application that allows s
 ---
 
 ## 📷 Screenshots
-(Add screenshots of your Appointment Form, Dashboard, and Portal here for a strong portfolio impression.)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/26f9d296-cd83-4b64-98e5-d406b3c786fa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69c94c2c-3399-48eb-81db-98d577a04e16" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2640e40-47f3-4966-8f50-da50adb99e58" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1aa6dbf7-de26-4300-a295-dd900a33de9a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d47d85c-f3bd-4f42-aaf9-0f10775cf9d6" />
+
+
+
