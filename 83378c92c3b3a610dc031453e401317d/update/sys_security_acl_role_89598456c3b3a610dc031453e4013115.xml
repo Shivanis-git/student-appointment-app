@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-07 07:12:32</sys_created_on>
+        <sys_id>89598456c3b3a610dc031453e4013115</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1566516_student_appointment.x_1566516_student.approver</sys_name>
+        <sys_package display_value="Student Appointment App" source="x_1566516_student">83378c92c3b3a610dc031453e401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Appointment App">83378c92c3b3a610dc031453e401317d</sys_scope>
+        <sys_security_acl display_value="x_1566516_student_appointment">49598456c3b3a610dc031453e4013112</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_89598456c3b3a610dc031453e4013115</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-07 07:12:32</sys_updated_on>
+        <sys_user_role display_value="x_1566516_student.approver" name="x_1566516_student.approver">73a7c49ac373a610dc031453e401313d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

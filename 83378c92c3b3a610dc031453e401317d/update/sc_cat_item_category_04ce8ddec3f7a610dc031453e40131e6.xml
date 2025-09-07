@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Book Student Appointment">22bc409ac3b3a610dc031453e4013173</sc_cat_item>
+        <sc_category display_value="Student Services">ef1e89dec3f7a610dc031453e40131b4</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-07 12:15:50</sys_created_on>
+        <sys_id>04ce8ddec3f7a610dc031453e40131e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Services.Book Student Appointment</sys_name>
+        <sys_package display_value="Student Appointment App" source="x_1566516_student">83378c92c3b3a610dc031453e401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Appointment App">83378c92c3b3a610dc031453e401317d</sys_scope>
+        <sys_update_name>sc_cat_item_category_04ce8ddec3f7a610dc031453e40131e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-07 12:15:50</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>1</order>
+        <published_ref/>
+        <question display_value="Select Department">b3809d92c33ba610dc031453e40131aa</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-07 13:35:52</sys_created_on>
+        <sys_id>c401691ac33ba610dc031453e4013149</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Civil</sys_name>
+        <sys_package display_value="Student Appointment App" source="x_1566516_student">83378c92c3b3a610dc031453e401317d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Student Appointment App">83378c92c3b3a610dc031453e401317d</sys_scope>
+        <sys_update_name>question_choice_c401691ac33ba610dc031453e4013149</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-07 13:43:06</sys_updated_on>
+        <text>Civil</text>
+        <value>Civil</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=c401691ac33ba610dc031453e4013149"/>
+</record_update>

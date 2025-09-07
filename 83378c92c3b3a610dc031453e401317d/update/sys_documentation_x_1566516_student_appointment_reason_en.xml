@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="reason" label="Reason" language="en" table="x_1566516_student_appointment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reason</element>
+            <help/>
+            <hint/>
+            <label>Reason</label>
+            <language>en</language>
+            <name>x_1566516_student_appointment</name>
+            <plural>Reasons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-07 07:12:28</sys_created_on>
+            <sys_id>c4594456c3b3a610dc031453e401311f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Reason</sys_name>
+            <sys_package display_value="Student Appointment App" source="x_1566516_student">83378c92c3b3a610dc031453e401317d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student Appointment App">83378c92c3b3a610dc031453e401317d</sys_scope>
+            <sys_update_name>sys_documentation_x_1566516_student_appointment_reason_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-07 07:12:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
